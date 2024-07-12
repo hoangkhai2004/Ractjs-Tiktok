@@ -1,4 +1,4 @@
-import Header from './Header';
+import Header from '~/components/Layout/components/Header';
 import Sidebar from './SideBar';
 function DelaultLayout({ children }) {
     return (
