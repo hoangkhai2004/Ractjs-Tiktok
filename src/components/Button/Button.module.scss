@@ -9,7 +9,7 @@
     border-radius: 4px;
     cursor: pointer;
     background-color: var(--white);
-    font-family: 'ProximaNova', sans-serif;
+    font-family: var(--font-family);
     border: 1px solid transparent;
     user-select: none;
     + .wrapper {
