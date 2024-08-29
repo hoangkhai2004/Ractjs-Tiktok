@@ -1,0 +1,33 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    display: flex;
+    background: none;
+    flex-direction: column;
+    cursor: pointer;
+    align-items: center;
+}
+.icon {
+    width: 48px;
+    height: 48px;
+    color: #161823;
+    background-color: rgba(22, 24, 35, 0.06);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 200ms ease-in-out;
+    margin-top: 8px;
+    margin-bottom: 6px;
+}
+.icon svg {
+    width: 21px;
+    height: 21px;
+}
+.img-item {
+    width: 21px;
+    height: 21px;
+}
